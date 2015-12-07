@@ -1,5 +1,9 @@
 # These are my results of freeCodeCamp exercises
 
+## Git 
+
+### Waypoint: Save your Code Revisions Forever with Git
+http://www.freecodecamp.com/challenges/waypoint-save-your-code-revisions-forever-with-git
 
 ## Node.js and Express.js
 
@@ -24,4 +28,4 @@ http://www.freecodecamp.com/challenges/waypoint-build-web-apps-with-expressjs
 
 
 I was experienced in Node.js before i started this Waypoints
-but i learned some additional an i recommend them.
+but i learned some additional and i recommend them.
