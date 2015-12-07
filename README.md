@@ -2,6 +2,10 @@
 
 
 ## Node.js and Express.js
+
+### Waypoint: Manage Packages with NPM
+http://www.freecodecamp.com/challenges/waypoint-manage-packages-with-npm
+
 ### Waypoint: Start a Nodejs Server
 http://www.freecodecamp.com/challenges/waypoint-start-a-nodejs-server
 
